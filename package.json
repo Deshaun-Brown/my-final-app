@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^7.0.0",
+    "@fortawesome/free-solid-svg-icons": "^7.0.0",
+    "@fortawesome/react-fontawesome": "^0.2.3",
+    "bootstrap": "^5.3.7",
+    "i": "^0.3.7",
+    "lodash": "^4.17.21",
+    "nanoid": "^5.1.5",
+    "npm": "^11.5.2"
+  }
+}
